@@ -1,0 +1,15 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "Blob": "^0.10.0",
+    "crypto-js": "^3.1.9-1",
+    "datauri": "^1.0.5",
+    "exceljs": "^0.8.2",
+    "firebase-admin": "^5.8.1",
+    "firebase-functions": "^0.8.1",
+    "nodemailer": "^4.4.2",
+    "qrcode": "^1.2.0"
+  },
+  "private": true
+}
